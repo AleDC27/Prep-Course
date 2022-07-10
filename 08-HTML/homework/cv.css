@@ -1,0 +1,10 @@
+.foto img{display: flex;
+      flex-direction: column;
+      justify-content: start;
+      align-items:center;
+}
+
+.foto img{width: 250px;
+      }
+
+body{background-color: rgb(201, 216, 216);}
